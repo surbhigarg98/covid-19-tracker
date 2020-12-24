@@ -1,0 +1,9 @@
+.infobox {
+  padding: 10px;
+}
+.infobox__title {
+  margin-bottom: 8px !important;
+}
+.infobox__total {
+  margin-top: 10px !important;
+}
